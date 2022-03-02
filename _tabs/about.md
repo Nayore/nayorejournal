@@ -13,9 +13,14 @@ Considering that I'm an Italian native speaker, I probably thought about the wor
 >
 >Ital. Feminine noun, plur. pasticche; 'Tablet or pill'    
 
-and I searched for a logic-sounding version in English ending up with pastiche, which btw exists in English, is used in artistic subjects.
+and I searched for a logic-sounding version in English ending up with pastiche, which btw exists in English, it's used in artistic subjects.
 
-I've learned a new thing about English, but about the British too: they'll never correct you, allowing to create such miserable red herrings about words. Tbh, I've always found languages funny because I learn about the speaker too. Living abroad, I noticed how I love to compare the different ways two languages use to express the same meaning or concept.   
+I've learned a new thing about English, but about the British too: they'll never correct you, allowing to create such miserable red herrings about words inside your brain. Tbh, I've always found languages funny because I learn about the speaker too. Living abroad, I noticed how I love to compare the different ways two languages use to express the same meaning or concept.   
 Moreover, I'm kinda bored, I'm lazy and I need to set a routine or something. That's why I decided to keep this journal, where I jot down observations and my progress while trying to learn Japanese, another *pretty funny* language. Finger crossed! 
+
+I'm a MA Eng Lit student, Italian native but based in the UK. I guess I've tried to kill two or more birds with a stone and opened a blog to:
+- record my 'progress' learning Japanese
+- maybe finding a pen pal, so that I could train my horrible handwriting
+- just because
 
 Feel free to get in touch with me at <nayorejournal@outlook.com> :v: 
