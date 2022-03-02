@@ -9,7 +9,7 @@ layout: "post"
 
 ### An Intro(?)
 
-I'm not even sure about *all* this, but for once [a weird event](tabs/about.md) inspired me to act on a hunch. But anyway - languages, which I say are funny; oh, and Japanese, which I say it's really funny. Let's start from my situation with it, how *poor* my Japanese is. [^1] I've studied Japanese completely on my own in a period of two years, stopping a lot and for a lot of time. I've obviously watched animes for an embarassingly huge portion of my life, so I can easily sense some meaning few times, especially linking them with sound or more or less accurate expressions, not to mention the short dictionary that every weeb develop. [^2] I've got some upper hands, since Italian phonetic system is pretty similar to Japanese, my pronunciation isn't a problem. The *problem* is the writing system.
+I'm not even sure about *all* this, but for once [a weird event](_tabs/about.md) inspired me to act on a hunch. But anyway - languages, which I say are funny; oh, and Japanese, which I say it's really funny. Let's start from my situation with it, how *poor* my Japanese is. [^1] I've studied Japanese completely on my own in a period of two years, stopping a lot and for a lot of time. I've obviously watched animes for an embarassingly huge portion of my life, so I can easily sense some meaning few times, especially linking them with sound or more or less accurate expressions, not to mention the short dictionary that every weeb develop. [^2] I've got some upper hands, since Italian phonetic system is pretty similar to Japanese, my pronunciation isn't a problem. The *problem* is the writing system.
 
 ### Japanese writing system
 
