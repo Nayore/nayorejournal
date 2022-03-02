@@ -18,6 +18,7 @@ GEM
     ethon (0.15.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+    ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -94,6 +95,8 @@ GEM
       tty-table (~> 0.10, = 0.10.0)
     nokogiri (1.13.3-x64-mingw-ucrt)
       racc (~> 1.4)
+    nokogiri (1.13.3-x86_64-linux)
+      racc (~> 1.4)
     parallel (1.21.0)
     pastel (0.7.2)
       equatable (~> 0.5.0)
@@ -150,6 +153,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux
 
 DEPENDENCIES
   gemoji
