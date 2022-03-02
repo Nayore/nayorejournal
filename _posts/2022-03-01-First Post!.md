@@ -1,3 +1,7 @@
+---
+layout: "post"
+---
+
 ## First post! OMG!1!
 
 ###### Per correr miglior acque alza le vele
