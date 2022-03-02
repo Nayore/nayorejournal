@@ -1,5 +1,6 @@
 ---
 layout: "post"
+title: "First Post! OMG!1!"
 ---
 
 ## First post! OMG!1!
