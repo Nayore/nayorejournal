@@ -31,10 +31,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://nayorejournal.github.io'
 
 github:
-  username: Nayore           # change to your github username
+  username: nayorejournal           # change to your github username
 
-twitter:
-  username:             # change to your twitter username
+# twitter:
+#   username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -49,13 +49,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: 3Rlogf1aIGTWAqtE7v_q7rePVM6yrZblAwEWgb3iPy4           # fill in to your verification string
+google_site_verification: KmLechIy_54FbYVW1fKQI-KSmhnyqAyQnKbEYW2vrPY           # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-NTD364BSXN                # fill in your Google Analytics ID
+  id:           # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
