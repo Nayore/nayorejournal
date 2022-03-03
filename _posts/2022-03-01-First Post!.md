@@ -18,7 +18,7 @@ I'm not even sure about *all* this, but for once [a weird event]({{ site.url }}/
 
 The Japanese use three writing system: two syllabic alphabets, called *Hiragana* and *Katakana*, plus a group of ideograms, called *Kanji*. Unless your mnemonical skills are way worser than mine(an that's rare), you can learn the alphabets easily, and learning them properly is useful to practise on words pronunciation. Kanji, well...that's another story.   
 ![Some well written kanji](https://i.imgur.com/cq7fsvR.jpeg "Some well written kanji")   
-*This are quite nicely written kanji. My handwriting is [way worse]({{ site.url }}/pics/myhandwriting.jpeg)*
+*This are quite nicely written kanji. My handwriting is [way worse]({{ baseurl }}{{ site.url }}/pics/myhandwriting.jpeg)*
 
 Writing Kanji is a mess, remering them is a mess, since there are a lot of them.[^3] What I found really illuminating about them is that you can avoid *mnemonically learning all of them*, like the Japanese do in school. Kanji are composed of at most 216 [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)). Kanjis can be composed of only one or more radicals. Once learnt these, you can learn the stroke order, so that when you find a new kanji that you don't know you can:   
 - count the number of strokes used to write the whole kanji
@@ -29,7 +29,7 @@ Example needed? Example granted! :)
 
 ##### Let's consider this ideogram: 好
 
-You can find this ideogram in words like 好き(*suki*, to like) or お好み(*okonomi*, choice). It's composed by the [radical for woman](https://en.wiktionary.org/wiki/%E5%A5%B3#Translingual), and the [radical for child](https://en.wiktionary.org/wiki/%E5%AD%90#Translingual). Both are composed by three strokes, so the kanji totally counts six strokes. Let's search for the [woman radical]({{ site.url }}/pics/jisho/1.JPG) (notice the highlights). Once selected, [the top list is updated and you can find your kanji]({{ site.url }}/pics/jisho/2.JPG). (notice the highlights) And it's [done](https://jisho.org/search/%E5%A5%BD)! 
+You can find this ideogram in words like 好き(*suki*, to like) or お好み(*okonomi*, choice). It's composed by the [radical for woman](https://en.wiktionary.org/wiki/%E5%A5%B3#Translingual), and the [radical for child](https://en.wiktionary.org/wiki/%E5%AD%90#Translingual). Both are composed by three strokes, so the kanji totally counts six strokes. Let's search for the [woman radical]({{ baseurl }}{{ site.url }}/pics/jisho/1.JPG) (notice the highlights). Once selected, [the top list is updated and you can find your kanji]({{ baseurl }}{{ site.url }}/pics/jisho/2.JPG). (notice the highlights) And it's [done](https://jisho.org/search/%E5%A5%BD)! 
 
 ### What else?
 I know the basics, like every weeb willing to learn japanese, thanks to the emblematic :sparkles: [Itazuraneko's sources](https://itazuraneko.neocities.org/) :sparkles: but also thanks to some other language books in Italian(which can be useful to learn expressions and words, but the basic grammar is more easily explained by Itazuraneko's sources). But in this period I'm pretty lazy, so I decided I should go for something different. So, I went for the other common choice: Reading *Yotsuba To*! 
