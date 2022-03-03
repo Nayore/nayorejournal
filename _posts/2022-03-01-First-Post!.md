@@ -16,7 +16,7 @@ I'm not even sure about *all* this, but for once [a weird event]({{ site.url }}/
 
 ### Japanese writing system
 
-The Japanese use three writing system: two syllabic alphabets, called *Hiragana* and *Katakana*, plus a group of ideograms, called *Kanji*. Unless your mnemonical skills are way worser than mine(and that's rare), you can learn the alphabets easily, and learning them properly is useful to practise on words pronunciation. Kanji, well...that's another story.   
+The Japanese use three writing systems: two syllabic alphabets, called *Hiragana* and *Katakana*, plus a group of ideograms, called *Kanji*. Unless your mnemonical skills are way worser than mine(and that's rare), you can learn the alphabets easily, and learning them properly is useful to practise on words pronunciation. Kanji, well...that's another story.   
 ![Some well written kanji](https://i.imgur.com/cq7fsvR.jpeg "Some well written kanji")   
 *These are quite nicely written kanji. My handwriting is [way worse](https://github.com/nayorejournal/nayorejournal.github.io/blob/main/assets/myhandwriting.jpg?raw=true)*
 
