@@ -23,9 +23,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: NAYoRE Journal                          # the main title
+title: NAYoRe Journal                          # the main title
 
-tagline: NAYoRe (Not Another Yotsuba-to REader!) is just a personal blog by another, yet, Yotsuba-to reader.   # it will display as the sub-title
+tagline: NAYoRe (Not Another Yotsuba-to Reader!) is just a personal blog by another, yet, Yotsuba-to reader.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   NAYoRe (Not Another Yotsuba-to REader!) is just a personal blog by another, yet, Yotsuba-to reader.
