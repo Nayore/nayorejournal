@@ -40,7 +40,7 @@ For those who don't know, it's a manga written by Azuma Kiyohiko, and it's about
 
 I've read some other page but, I must get used to write these posts, I'll call it a day. Noice!
 
-
+---
 
 [^1]: Fun fact. I've read this expression ('I'm sorry my English is poor') quite often on the Internet, in youtube section comments or some weird chan, but I've always found it slightly awkward. Jeez, 'I'm not fluent in language x' goes way better.
 
