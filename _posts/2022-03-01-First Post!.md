@@ -12,13 +12,13 @@ categories: anime, yotsubato, japanese
 
 ### An Intro(?)
 
-I'm not even sure about *all* this, but for once [a weird event]({{ site.url }}/tabs/about.md) inspired me to act on a hunch. But anyway - languages, which I say are funny; oh, and Japanese, which I say it's really funny. Let's start from my situation with it, how *poor* my Japanese is.[^1] I've studied Japanese completely on my own in a period of two years, stopping a lot and for a lot of time. I've obviously watched animes for an embarassingly huge portion of my life, so I can easily sense some meaning few times, especially linking them with sound or more or less accurate expressions, not to mention the short dictionary that every weeb develop.[^2] I've got some upper hands, since Italian phonetic system is pretty similar to Japanese, my pronunciation isn't a problem. The *problem* is the writing system.
+I'm not even sure about *all* this, but for once [a weird event]({{ site.baseurl }}{{ site.url }}/_tabs/about.md) inspired me to act on a hunch. But anyway - languages, which I say are funny; oh, and Japanese, which I say it's really funny. Let's start from my situation with it, how *poor* my Japanese is.[^1] I've studied Japanese completely on my own in a period of two years, stopping a lot and for a lot of time. I've obviously watched animes for an embarassingly huge portion of my life, so I can easily sense some meaning few times, especially linking them with sound or more or less accurate expressions, not to mention the short dictionary that every weeb develop.[^2] I've got some upper hands, since Italian phonetic system is pretty similar to Japanese, my pronunciation isn't a problem. The *problem* is the writing system.
 
 ### Japanese writing system
 
 The Japanese use three writing system: two syllabic alphabets, called *Hiragana* and *Katakana*, plus a group of ideograms, called *Kanji*. Unless your mnemonical skills are way worser than mine(an that's rare), you can learn the alphabets easily, and learning them properly is useful to practise on words pronunciation. Kanji, well...that's another story.   
 ![Some well written kanji](https://i.imgur.com/cq7fsvR.jpeg "Some well written kanji")   
-*This are quite nicely written kanji. My handwriting is [way worse]({{ baseurl }}{{ site.url }}/pics/myhandwriting.jpeg)*
+*This are quite nicely written kanji. My handwriting is [way worse]({{ site.baseurl }}{{ site.url }}/_pics/myhandwriting.jpeg)*
 
 Writing Kanji is a mess, remering them is a mess, since there are a lot of them.[^3] What I found really illuminating about them is that you can avoid *mnemonically learning all of them*, like the Japanese do in school. Kanji are composed of at most 216 [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)). Kanjis can be composed of only one or more radicals. Once learnt these, you can learn the stroke order, so that when you find a new kanji that you don't know you can:   
 - count the number of strokes used to write the whole kanji
