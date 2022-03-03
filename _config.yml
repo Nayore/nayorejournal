@@ -200,4 +200,5 @@ jekyll-archives:
 plugins:
   - jemoji
   - jekyll-relative-links
+  - jekyll-avatar
 
