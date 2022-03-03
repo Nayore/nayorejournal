@@ -2,6 +2,7 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+permalink: /about/
 ---
 
 ## Welcome to NAYoRE's blog!
