@@ -20,7 +20,7 @@ The Japanese use three writing system: two syllabic alphabets, called *Hiragana*
 ![Some well written kanji](https://i.imgur.com/cq7fsvR.jpeg "Some well written kanji")   
 *These are quite nicely written kanji. My handwriting is [way worse](https://github.com/nayorejournal/nayorejournal.github.io/blob/main/assets/myhandwriting.jpg?raw=true)*
 
-Writing Kanji is a mess, remembering them is a mess, since there are a lot of them.[^3] What I found really illuminating about them is that you can avoid *mnemonically learning all of them*, like the Japanese do in school. Kanji are composed of at most 216 [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)). They can be composed of only one or more radicals. Once learnt these, you can learn the stroke order, so that when you find a new kanji that you haven't seen before you can:   
+Writing Kanji is a mess, remembering them is a mess, since there are a lot of them.[^3] What I found really illuminating about them is that you can avoid *mnemonically learning all of them*, like the Japanese do in school. Kanji are composed of at most 214 [radicals](https://en.wikipedia.org/wiki/Radical_(Chinese_characters)). They can be composed of only one or more radicals. Once learnt these, you can learn the stroke order, so that when you find a new kanji that you haven't seen before you can:   
 - count the number of strokes used to write the whole kanji
 - identify the first radical and its number of strokes
 - go to [jisho.org](https://jisho.org), open the radicals menu, search in the list(that's indexed according to number of strokes for each radical) for the first radical
