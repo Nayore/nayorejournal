@@ -39,7 +39,7 @@ I know the basics, like every weeb willing to learn japanese, thanks to the embl
 
 For those who don't know, it's a manga written by Azuma Kiyohiko, and it's about a quirky and lively 5 years old girl. Let's have a look at the [first page](https://github.com/nayorejournal/nayorejournal.github.io/blob/main/assets/Yotsubato!1-12.jpg?raw=true). Following the classic manga-reading order,[^4] I can immediately say that the first three panels are absolutely fine. I know もうすぐだぞ loosely means 'we've arrived.' Fourth panel: I loved experimenting on reading すげえ as she [would](https://voca.ro/16f2XuuQ1KZH), and I don't think I was really troubled by the 'voice-over' balloon(because that's voice-over, I don't think she would switch from すげえ to... *that*). If you're not familiar with names abbreviations among relatives,[^5] you could easily miss that よーちゃん (*yo-chan*) is an abbreviation for Yotsuba, the protagonist's name. That sentence anyway didn't sound me goood at first. If I should translate it without any kind of adaptation, I'd say 'Yotsuba is full of this place!' After searching for いっぱい (*ippai*) on Jisho, I see that いっぱいあるな could mean 'being completely brimmed with (an emotion or a quality)'. I think it can be rendered as 'Yo-chan is totally (focused) on this place!' Then he says 'Oh right, there is also a shop,' and she makes a *screaming* cat call like 'EVEN THE SHOP?!' in turn.
 
-I've read some other page but, I must get used to write these posts, I'll call it a day. Noice!
+I've read some other pages but - I must get used to write these posts, I'll call it a day. Noice!
 
 ---
 
