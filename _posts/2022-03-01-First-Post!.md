@@ -2,7 +2,7 @@
 layout: "post"
 title: "First Post! OMG!1!"
 date: "2022-03-02"
-categories: anime, yotsubato, japanese
+categories: anime yotsubato japanese
 ---
 
 ## First post! OMG!1!
