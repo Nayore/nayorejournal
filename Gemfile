@@ -23,3 +23,4 @@ gem "webrick", "~> 1.7"
 gem "jemoji"
 gem "gemoji"
 gem "jekyll-relative-links"
+gem 'jekyll-avatar'
