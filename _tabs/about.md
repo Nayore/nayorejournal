@@ -5,7 +5,7 @@ order: 4
 permalink: /about/
 ---
 
-## Welcome to NAYoRE's blog!
+## Welcome to NAYoRe's blog!
 
 I'm just a student who finds languages funny. Although I've studied English (as a foreigner) for more than 10 years, today I've found out that I've used a word that doesn't exist for more than two years. The point is: have you ever been in the bogs of a British pub? You could find those naive large stainless steel urinals they sometimes use. Hopefully, they never forget to use those lemon-smelling yellow chunks. Don't ask me why, since the first time I had to find a word for those...*things*, I've always named them 'pastiches.' My mind went full heuristic monkey or something. 
 
