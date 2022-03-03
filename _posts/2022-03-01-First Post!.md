@@ -7,8 +7,8 @@ categories: anime, yotsubato, japanese
 
 ## First post! OMG!1!
 
-###### Per correr miglior acque alza le vele
-###### omai la navicella del mio ingegno
+>###### Per correr miglior acque alza le vele
+>###### omai la navicella del mio ingegno
 
 ### An Intro(?)
 
