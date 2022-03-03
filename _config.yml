@@ -87,7 +87,7 @@ img_cdn:
 avatar: https://github.com/nayorejournal/nayorejournal.github.io/blob/main/avatar.jpg?raw=true
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 comments:
   active: disqus        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
