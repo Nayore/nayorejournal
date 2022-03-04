@@ -131,6 +131,7 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-avatar
   jekyll-relative-links
+  jekyll-sitemap
   jekyll-theme-chirpy (~> 5.1, >= 5.1.0)
   jemoji
   tzinfo (~> 1.2)
