@@ -201,4 +201,4 @@ plugins:
   - jemoji
   - jekyll-relative-links
   - jekyll-avatar
-
+  - jekyll-sitemap
