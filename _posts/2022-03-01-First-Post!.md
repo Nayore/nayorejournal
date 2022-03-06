@@ -5,7 +5,7 @@ date: "2022-03-02"
 categories: anime manga yotsubato japanese
 ---
 
-## First post! OMG!1!
+
 
 ###### Per correr miglior acque alza le vele
 ###### omai la navicella del mio ingegno
@@ -49,6 +49,6 @@ I've read some other pages but - I must get used to write these posts, I'll call
 
 [^3]: Japanese Kanji originally consisted of something around 50.000 ideograms. Now [things are different, fortunately](https://en.wikipedia.org/wiki/J%C5%8Dy%C5%8D_kanji).
 
-[^4]: If you don't know it: shame on you, you're on your own; don't care plus didn't ask.
+[^4]: If you don't know it: shame on you, you're on your own; don't care plus didn't ask :fire:.
 
 [^5]: For more info, read the chapter 'The Use of Names' in *Etiquette Guide to Japan* (Tuttle Publishing).

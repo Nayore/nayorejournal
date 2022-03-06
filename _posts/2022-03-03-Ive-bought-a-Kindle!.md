@@ -5,7 +5,7 @@ date: "2022-03-03"
 categories: e-reader screensaver kindle william gibson neuromancer stanislaw lem solaris
 ---
 
-## I've Bought a Kindle!
+
 
 I hope nobody thought I'd have spoken only of Japanese stuff. God, I'm not obsessed at that point, what do you think?
 
