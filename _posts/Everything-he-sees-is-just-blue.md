@@ -1,0 +1,32 @@
+---
+layout: 'post'
+title: '"Everything he sees is just blue"'
+date: "2022-03-08"
+categories: 'Japan Exchange Teaching program JET housing crisis London Birmingham UK GP PhD MA mental health Basaglia law'
+---
+
+The advantage of writing a post on a recently opened blog is that you can face whatever issue you'd like to focus on, without any restraint, lacking any fear towards an audience that is not yet established. The drawback is that you don't know what to fuck talk about. I haven't got used to it, I guess. I'm also not in the mood. I'm a bit depressed because of my work situation. I live in Birmingham, which tries to mimic London as closely as possible. They create traffic jams and throw tons of stainless steel beams on tons of concrete on every single suitable plot the council manages to find. To do what? To let speculators build high-luxury edifices with gym equipment and lounges. Who knows, it could end up like in London, where there is a rising number of people searching for home while [the number of unoccupied flats also goes up](https://pastebin.com/GaY3g6Jx) because, breaking news, they are too expensive.
+
+Anyway, focusing back on Birmingham...more than one million people live here. One can obviously find a job, but you must adapt yourself, doing something that doesn't reflect your studies or your interests, risking losing the chance to find what suits you. Let's be honest, once you find a job, there will *always* be more reason to keep it than to lose it. In the foreseeable future things seem only to get worse.
+
+It must be said that I'm one of those nagging blokes who are never content. I've been behind a counter in Italy for five years, but working as a salesman is the worst. Customers are the worst. I top-up my wage here, but I'm pretty tired to do it. I've been proposed an apprenticeship by an organization that qualifies new teachers. Such apprenticeship would overlap with my master's though. Moreover, tbh, I'm interested in university, not in colleges or schools. But, to accomplish this I need to finish a PhD after my MA. I was working on the proposal, but I got a lot of setbacks: writing for this blog, learning python even, since I'm a crazy troublemaker.
+
+Let's imagine I finish my PhD: then what? The situation in universities is not great either anymore. Graduate and post-graduate level jobs in music and the arts are missing, and Borish Johnson doesn't want to fix this problem, rather make [these disciplines disappear](https://www.theguardian.com/education/2021/may/06/plans-for-50-funding-cut-to-arts-subjects-at-universities-catastrophic). But I'm a thrifty person: if I'm happy with my job I'll accept even the minimum wage. Still, no jobs. What to do about it? A friend of mine reminded me last week how difficult getting by 'writing books' is. I agreed with him, although I added that I'm more interested in university. He replied: 'you're Italian, just sell perfumes.' It was a bit of a shock...not because of the cliché of Italians selling perfumes, I couldn't care more about that. I prefer an honest 'guinea pig' to an insincere smile. It was more a realisation.
+
+Let's add for a sec Japan in all this rant. Another option I have is the Japan Exchange and Teaching program(or [JET](http://jetprogramme.org/en/)). Basically, whoever has a degree in English can propose themselves as a teacher assistant and - well, be provided with room and board and some money in Japan. I've thought **a lot** about this option, but there are drawbacks as well. The Japanese council specifies applicants must be nationals of the country from which they apply. Just this element is enough to force me to defer this option indefinitely: I should move back to Italy. Doing so the SLC, which has funded my uni courses, would wink at me and start asking insistently for their money back. Chances are that the money from the program would not suffice my personal expenses and the repayments. But you know what, I could also search for something else in Japan! Most easily said than done, since the only kind of job that I would find in the short term would be...waiter in an Italian restaurant or selling perfumes. 
+
+**ffs**
+
+---
+
+Since my mood is black in this period, it can't be helped: rethinking about my friend's words I tell myself: 'why not go for it? Why would I strive for a PhD? Isn't just finding a routine better? Not thinking about what to do, but about doing something. What if everyone tells you you've got all the choices available on Earth but you feel it doesn't worth any longer?' I've always trusted my curiosity about the world and humankind, but I was not prepared to lose my resilience in this way.
+
+I know I'm raving, but this is the last thing I can do. Just because I'm writing here. Am I raving anyway? Naah, more like I'm :sparkles: expressing myself. :sparkles: Everything now is about expressing yourself! It's the motto of the 21^st^ century - except that nobody's gonna listen to you anyway. I've got some experience about it.
+
+You can have mental health support in companies nowadays because it's important that you feel assisted and cared for, but not that you feel simply better. Change my mind. When I was diagnosed with clinical depression last year, I expressed the urge for sessions with a psychologist, because I felt something in my thoughts was wrong and twisted. I'm not afraid to say it, it's a fact, more common than one can imagine. Anyway, my GP arranged sessions with a...consultant, who was brave enough to make me draw circles on a piece of paper [like this](https://share.sketchpad.app/22/03b-329a-e19791.jpeg) to make me aknowledge that 'I can't have control over everything.' Even better, he made me once close my eyes imagining that everything around me was red, then orange and then - well, the rest of the rainbow, to blue. He reminded me of [this song](https://www.youtube.com/watch?v=zA52uNzx7Y4). 
+
+> Has medicine gone too far?
+
+You ask for mental help, they give you sketches pads, meditation and quotations to Eurodance songs from the 90s. Pardon my French, but I don't celebrate the [Basaglia Law](https://en.wikipedia.org/wiki/Basaglia_Law) for this **shit**.
+
+I will expand more on this idea of mine about society being simply too hypocritical today. But for the moment I'm tired of seeing blue everywhere. I'll try not to think about for a while, even if this means casting myself out of society.
