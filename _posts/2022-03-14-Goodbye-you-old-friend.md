@@ -20,7 +20,7 @@ I still consider Youtube one of the greatest resources of this fucking dying int
 
 ### It wasn't all puppy dogs and rainbows
 
-This post will contain some criticism towards Vanced as well. Ffs, at the beginning through the .apks, which are totally a meme to me. Moreover, they've always got problem on MIUIs, and only recently their manager started to work fine for real. Anyway, any kind of this struggle is in vain now.
+This post will contain some criticism towards Vanced as well. Ffs, installation at the beginning worked through the .apks format, which are used by devs only (that's why such method is totally a meme to me). Moreover, they've always got problem on MIUIs, and only recently their manager started to work fine for real. Anyway, any kind of this struggle is in vain now.
 
 ### Nonetheless, thank you Vanced
 
