@@ -1,7 +1,7 @@
 ---
 layout: 'post'
 title: 'Goodbye, you old friend'
-date: '2022-03-14'
+date: '2022-03-14 15:37:00'
 description: This is a post to celebrate, criticise, remember and grieve for the ending of Yotube Vanced. Supporters had to interrupt its development because of Google, which is shit. Remember Google, you're shit.
 categories: Youtube Vanced
 ---
