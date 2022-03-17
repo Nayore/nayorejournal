@@ -13,8 +13,6 @@ Among all the sorts of imperatives David Shields reminds us, there is this one
 > —praise for matter in its simple state, as a fact.[^1] 
 
 
-[^1]: *Reality Hunger: A Manifesto* (London: Penguin Books, 2011), p. 49.
-
 The description of single events or facts is what the human mind craves. Victorian society believed in a superhuman order which assured stability, the same stability through which events in British novels flow uninterrupted and ineluctable, from the beginning of the protagonist's life until its recount from the protagonist itself. British novelists developed their own techniques to reflect this order. We don't believe in any order anymore(not the *superhuman ones* at least,) so we don't use those techniques any longer. Fragements satisfy us even more.
 
 Then, I'll leave my own fragments here. Maybe I'll keep this updated.
@@ -27,10 +25,12 @@ Then, I'll leave my own fragments here. Maybe I'll keep this updated.
 - I should write some posts about some meme-wave thing. An idea that intrigues me regards the *bruh moment*.
 -  I've got the impression for a whole hour that my peripheral vision was somehow damaged. Am I hypochondriac-ish to such an extent? Nah, come on :relieved: ...UNLESS :flushed: 
 
-> - And never say of anything "Indeed, I will do that tomorrow," except [when >adding], "If God wills." (Arab. **In šāʾ Allāh**)[^2]
+> - And never say of anything "Indeed, I will do that tomorrow," except [when adding], "If God wills." (Arab. **In šāʾ Allāh**)[^2]
 > - "HEAVEN helps those who help themselves," is a well-tried maxim. [^3]
 
 ---
+
+[^1]: *Reality Hunger: A Manifesto* (London: Penguin Books, 2011), p. 49.
 
 [^2]: Qur'an, 18:23-24. (š as in *shush*)
 
