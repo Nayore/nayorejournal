@@ -27,7 +27,7 @@ Then, I'll leave my own fragments here. Maybe I'll keep this updated.
 - I should write some posts about some meme-wave thing. An idea that intrigues me regards the *bruh moment*.
 -  I've got the impression for a whole hour that my peripheral vision was somehow damaged. Am I hypochondriac-ish to such an extent? Nah, come on :relieved: ...UNLESS :flushed: 
 
-> - And never say of anything "Indeed, I will do that tomorrow," except [when >adding], "If God wills." (Arab. **In šāʾ Allāh**)[^2]
+> - And never say of anything "Indeed, I will do that tomorrow," except [when adding], "If God wills." (Arab. **In šāʾ Allāh**)[^2]
 > - "HEAVEN helps those who help themselves," is a well-tried maxim. [^3]
 
 ---
