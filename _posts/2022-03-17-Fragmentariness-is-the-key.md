@@ -28,6 +28,16 @@ Then, I'll leave my own fragments here. Maybe I'll keep this updated.
 > - And never say of anything "Indeed, I will do that tomorrow," except [when adding], "If God wills." (Arab. **In šāʾ Allāh**)[^2]
 > - "HEAVEN helps those who help themselves," is a well-tried maxim. [^3]
 
+##### *27-03-2022*
+- Today I was on a plane when the power button of my [Kindle](https://nayorejournal.github.io/posts/Ive-bought-a-Kindle!/) decides to go kaputt. Fortunately, I bought a book from a service station. I started reading it, but I was pissed af, since there were my uni book on that Kindle. 
+- Around 2000 a Chinese girl, Zhang Xiangbi, who was carrying a child, tried to refuse some avances from an Italian grease monkey. He bashed her up and when she fainted he cut her throat before dumping her into a pit. This happened in Italy, in the metropolitan area of Naples, a place oppressed by the [Camorra](https://en.wikipedia.org/wiki/Camorra).[^4] What a shitty place is this world.
+
+##### *28日 3月 2022年*[^5]
+
+- みんなのに日本人よ、 聞いてください 英語を勉強してください。 難しいする 分かりますけど、 全部のこころえ開放するだとおもう。 
+- 花澤香菜に 。 二日から妄想♡エクスプレスを聞きますよ。 千石撫子の展開に NISIOISINとシナリオライターと演出家 感謝の言葉もないが、他が花澤為にありますね 。千石は 全部の戦いとか展開過ぎに決心が 声為に あります 。素敵なあるともういます 。驚嘆します。
+
+
 ---
 
 [^1]: *Reality Hunger: A Manifesto* (London: Penguin Books, 2011), p. 49.
@@ -35,3 +45,7 @@ Then, I'll leave my own fragments here. Maybe I'll keep this updated.
 [^2]: Qur'an, 18:23-24. (š as in *shush*)
 
 [^3]: Samuel Smiles, *Self-Help*, p. 1. 
+
+[^4]: [Roberto Saviano, *Gomorra: viaggio nell'impero economico e nel sogno di dominio della camorra* (Milano: Mondadori, 2010), p. 41](https://archive.org/details/gomorraviaggione0000savi)
+
+[^5]: I can't guarantee in any way that what's written here is correct. I'm sorry. If you want to roast me, please [go on](https://www.youtube.com/watch?v=GJHbLH5D_NY).
